@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="API_KEY")
+client = Groq(api_key="API_KEY")   #Add you groq api key (can be claimed for free!)
 
 def chat_with_bot(prompt):
     response = client.chat.completions.create(
