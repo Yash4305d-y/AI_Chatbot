@@ -25,7 +25,7 @@ Groq Python SDK (or requests depending on your code)
 
 <h2>🔧Installation & Setup</h2>
 <h2>1️⃣Clone the repository</h2>
-git clone https://github.com/YOUR_USERNAME/AI_Chatbot.git
+git clone https://github.com/Yash4305d-y/AI_Chatbot.git
 cd AI_Chatbot
 
 <h2>2️⃣Install dependencies</h2>
