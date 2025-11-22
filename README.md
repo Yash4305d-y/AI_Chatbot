@@ -35,7 +35,7 @@ pip install groq
 
 Create a .env file in the project folder:
 
-GROQ_API_KEY=your_api_key_here
+GROQ_API_KEY=your api key here
 
 <h2>▶️ Run the Chatbot</h2>
 python MAIN.py
