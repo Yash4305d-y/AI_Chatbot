@@ -41,7 +41,7 @@ GROQ_API_KEY=your api key here
 python MAIN.py
 
 <h2>💬 Example Interaction </h2>
-You: Hello!
+You: Hello!<br>
 Bot: Hi! How can I assist you today?
 
 
