@@ -1,4 +1,4 @@
-# ⭐ AI Chatbot – Python (Groq API)
+# ⭐ AI Chatbot – (Groq API)
 
 A lightweight and fast AI chatbot built using Python and the Groq API.
 This project is perfect for beginners who want to learn how to integrate LLMs into real Python applications.
